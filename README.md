@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/premchavhan3" target="blank"><img src="https://img.shields.io/twitter/follow/premchavhan3?logo=twitter&style=for-the-badge" alt="premchavhan3" /></a> </p>
 
-- 🌱 I’m currently learning **React, DevOPs**
+- 🌱 I’m currently learning **React, DevOps**
 
 - 👨‍💻 All of my projects are available at [https://premchavhan.github.io/](https://premchavhan.github.io/)
 
